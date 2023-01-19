@@ -1,0 +1,6 @@
+CLASS zcl_rap_po_poc_read DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
