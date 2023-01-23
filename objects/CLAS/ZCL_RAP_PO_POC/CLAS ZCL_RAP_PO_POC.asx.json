@@ -125,7 +125,7 @@
     "DELFLAG":"",
     "TRANSLTTXT":"",
     "CREATED_ON":"2022-11-04",
-    "CHECK_DATE":"",
+    "CHECK_DATE":"0000-00-00",
     "CHECK_CFG":""
    }
   ]
@@ -225,7 +225,7 @@
     "SUBC":"I",
     "APPL":"S",
     "UNAM":"EZENEBRE",
-    "RMAND":"310",
+    "RMAND":"200",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"

@@ -52,4 +52,6 @@
       COMMIT ENTITIES END.
       out->write( 'Purchase order : ' && ls_po_key-purchaseorder ).
 
+      " Add comment to test Registry Commit
+
     ENDMETHOD.
