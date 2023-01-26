@@ -1,0 +1,277 @@
+[
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"SHI3",
+    "OBJ_NAME":"368DDFAB3AB96CCFE10000009B38F976",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP",
+    "SRCDEP":"",
+    "DEVCLASS":"BECU",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"D",
+    "VERSID":"0.0",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"0000-00-00",
+    "CHECK_DATE":"0000-00-00",
+    "CHECK_CFG":""
+   }
+  ]
+ },
+ {
+  "table":"TTREE",
+  "data":
+  [
+   {
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "EXTENSION":"",
+    "EXT_KEY":"",
+    "TYPE":"IMG",
+    "NODE_ID":"368DDFAC3AB96CCFE10000009B38F976",
+    "TREE_ID":"",
+    "MASTERLANG":"D",
+    "RESPONSIBL":"SAP",
+    "BUFFERMODE":"0",
+    "BUFFERVAR":"",
+    "SINGLENODE":"",
+    "SUBTREEONL":"",
+    "LOG_STR":"",
+    "FUSER":"SAP",
+    "FDATE":"1999-01-04",
+    "FTIME":"11:18:59",
+    "FRELEASE":"46A",
+    "LUSER":"EZENEBRE",
+    "LDATE":"2023-01-26",
+    "LTIME":"18:56:44",
+    "LRELEASE":"757"
+   }
+  ]
+ },
+ {
+  "table":"TTREET",
+  "data":
+  [
+   {
+    "SPRAS":"1",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP 用户化实施指南",
+    "TEXT_CAP":"SAP 用户化实施指南"
+   },
+   {
+    "SPRAS":"2",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing Implementation Guide",
+    "TEXT_CAP":"SAP CUSTOMIZING IMPLEMENTATION GUIDE"
+   },
+   {
+    "SPRAS":"3",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP 커스터마이징 구현 가이드",
+    "TEXT_CAP":"SAP 커스터마이징 구현 가이드"
+   },
+   {
+    "SPRAS":"4",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Ghid de implementare pt.customizare",
+    "TEXT_CAP":"SAP GHID DE IMPLEMENTARE PT.CUSTOMIZARE"
+   },
+   {
+    "SPRAS":"5",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"R/3 Customizing navodilo za uvedbo",
+    "TEXT_CAP":"R/3 CUSTOMIZING NAVODILO ZA UVEDBO"
+   },
+   {
+    "SPRAS":"6",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Vodič za implementaciju prilagodbe",
+    "TEXT_CAP":"SAP VODIČ ZA IMPLEMENTACIJU PRILAGODBE"
+   },
+   {
+    "SPRAS":"8",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Посібник з реалізації налаштування SAP",
+    "TEXT_CAP":"ПОСІБНИК З РЕАЛІЗАЦІЇ НАЛАШТУВАННЯ SAP"
+   },
+   {
+    "SPRAS":"9",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP-i seadistamine: rakendusjuhend",
+    "TEXT_CAP":"SAP-I SEADISTAMINE: RAKENDUSJUHEND"
+   },
+   {
+    "SPRAS":"A",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"دليل إنجاز تخصيص SAP",
+    "TEXT_CAP":"دليل إنجاز تخصيص SAP"
+   },
+   {
+    "SPRAS":"B",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"מדריך יישום להתאמה ללקוח של SAP",
+    "TEXT_CAP":"מדריך יישום להתאמה ללקוח של SAP"
+   },
+   {
+    "SPRAS":"C",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Customizing SAP: Implementační příručka",
+    "TEXT_CAP":"CUSTOMIZING SAP: IMPLEMENTAČNÍ PŘÍRUČKA"
+   },
+   {
+    "SPRAS":"D",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing Einführungsleitfaden",
+    "TEXT_CAP":"SAP CUSTOMIZING EINFÜHRUNGSLEITFADEN"
+   },
+   {
+    "SPRAS":"E",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing Implementation Guide",
+    "TEXT_CAP":"SAP CUSTOMIZING IMPLEMENTATION GUIDE"
+   },
+   {
+    "SPRAS":"F",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Guide d'implémentation SAP Customizing",
+    "TEXT_CAP":"GUIDE D'IMPLÉMENTATION SAP CUSTOMIZING"
+   },
+   {
+    "SPRAS":"G",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Οδηγός Εφαρμογής Παραμετροποίησης SAP",
+    "TEXT_CAP":"ΟΔΗΓΌΣ ΕΦΑΡΜΟΓΉΣ ΠΑΡΑΜΕΤΡΟΠΟΊΗΣΗΣ SAP"
+   },
+   {
+    "SPRAS":"H",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP customizing bevezetési útmutató",
+    "TEXT_CAP":"SAP CUSTOMIZING BEVEZETÉSI ÚTMUTATÓ"
+   },
+   {
+    "SPRAS":"I",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing: guida di implementazione",
+    "TEXT_CAP":"SAP CUSTOMIZING: GUIDA DI IMPLEMENTAZIONE"
+   },
+   {
+    "SPRAS":"J",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP カスタマイジングの導入ガイド (IMG)",
+    "TEXT_CAP":"SAP カスタマイジングの導入ガイド (IMG)"
+   },
+   {
+    "SPRAS":"K",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing: Implementeringsguide",
+    "TEXT_CAP":"SAP CUSTOMIZING: IMPLEMENTERINGSGUIDE"
+   },
+   {
+    "SPRAS":"L",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Przewodnik wdrożenia dla konfiguracji",
+    "TEXT_CAP":"SAP PRZEWODNIK WDROŻENIA DLA KONFIGURACJI"
+   },
+   {
+    "SPRAS":"M",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP 自訂建置指南",
+    "TEXT_CAP":"SAP 自訂建置指南"
+   },
+   {
+    "SPRAS":"N",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing implementatiehandleiding",
+    "TEXT_CAP":"SAP CUSTOMIZING IMPLEMENTATIEHANDLEIDING"
+   },
+   {
+    "SPRAS":"O",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP-systemtilpasning implementeringsguide",
+    "TEXT_CAP":"SAP-SYSTEMTILPASNING IMPLEMENTERINGSGUIDE"
+   },
+   {
+    "SPRAS":"P",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing guia de implementação",
+    "TEXT_CAP":"SAP CUSTOMIZING GUIA DE IMPLEMENTAÇÃO"
+   },
+   {
+    "SPRAS":"Q",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Customizing: Implementačná príručka",
+    "TEXT_CAP":"SAP CUSTOMIZING: IMPLEMENTAČNÁ PRÍRUČKA"
+   },
+   {
+    "SPRAS":"R",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP Настройка: руководство по внедрению системы",
+    "TEXT_CAP":"SAP НАСТРОЙКА: РУКОВОДСТВО ПО ВНЕДРЕНИЮ СИСТЕМЫ"
+   },
+   {
+    "SPRAS":"S",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Guía de implementación de Customizing SAP",
+    "TEXT_CAP":"GUÍA DE IMPLEMENTACIÓN DE CUSTOMIZING SAP"
+   },
+   {
+    "SPRAS":"T",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP uyarlaması için uygulama kılavuzu",
+    "TEXT_CAP":"SAP UYARLAMASİ IÇIN UYGULAMA KİLAVUZU"
+   },
+   {
+    "SPRAS":"U",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP-mukautus - käyttöönotto-ohje",
+    "TEXT_CAP":"SAP-MUKAUTUS - KÄYTTÖÖNOTTO-OHJE"
+   },
+   {
+    "SPRAS":"V",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP-kundanpassning: Implementeringshandledning",
+    "TEXT_CAP":"SAP-KUNDANPASSNING: IMPLEMENTERINGSHANDLEDNING"
+   },
+   {
+    "SPRAS":"W",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Ръководство за внедряване за R/3 Настройки (IMG)",
+    "TEXT_CAP":"РЪКОВОДСТВО ЗА ВНЕДРЯВАНЕ ЗА R/3 НАСТРОЙКИ (IMG)"
+   },
+   {
+    "SPRAS":"X",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP tinkinimas: diegimo vadovas",
+    "TEXT_CAP":"SAP TINKINIMAS: DIEGIMO VADOVAS"
+   },
+   {
+    "SPRAS":"Y",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP pielāgošanas ieviešanas rokasgrāmata",
+    "TEXT_CAP":"SAP PIELĀGOŠANAS IEVIEŠANAS ROKASGRĀMATA"
+   },
+   {
+    "SPRAS":"c",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"Guia d'implementació del Customizing SAP",
+    "TEXT_CAP":"GUIA D'IMPLEMENTACIÓ DEL CUSTOMIZING SAP"
+   },
+   {
+    "SPRAS":"d",
+    "ID":"368DDFAB3AB96CCFE10000009B38F976",
+    "TEXT":"SAP vodič za implementaciju prilagođavanja",
+    "TEXT_CAP":"SAP VODIČ ZA IMPLEMENTACIJU PRILAGOĐAVANJA"
+   }
+  ]
+ }
+]
